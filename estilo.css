@@ -1,0 +1,67 @@
+#corpo{
+    margin: auto;
+    height: 1000px;
+    width: 1200px;
+    /*border:1px solid black;*/
+}
+#direita{
+    height: 1000px;
+    width: 580px;
+    /*border:1px solid black;*/
+    float: right;
+    /*margin-right:  2px;*/
+}
+#esquerda{
+    height: 1000px;
+    width: 610px;
+    /*border:1px solid black;*/
+    float: left;
+}
+#tabela{
+    border:1px solid #D8D8D8;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: #F2F2F2;
+}
+th{
+    padding-right: 10px;
+    border-bottom: 1px solid #848484;
+    padding-left: 10px;
+    color: #848484;
+}
+td{
+    text-align: center;
+    border-bottom: 0.5px solid #D8D8D8;
+}
+
+#times_espaco{
+    padding-right: 50px;
+    padding-left: 0px;
+    text-align: left;
+}
+#cinza{
+    background-color: #D8D8D8;
+}
+
+#times_espaco2{
+    padding-right: 30px;
+    padding-left: 0px;
+    text-align: left;
+}
+
+#tabela2{
+    border:1px solid #D8D8D8;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: #F2F2F2;
+}
+
+
+ul{
+    
+    display: inline-block;
+}
+
+tr:hover{
+    background-color: #00FF00;
+}
